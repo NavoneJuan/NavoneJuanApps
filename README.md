@@ -14,7 +14,7 @@ Bienvenido al repositorio oficial de las aplicaciones de **Navone Juan Solucione
 
 Puedes descargar la última versión **v1.0** para tu plataforma preferida desde nuestra sección de "Releases":
 
-[📥 **IR A LA ZONA DE DESCARGAS (RELEASES)**](./releases)
+[📥 **IR A LA ZONA DE DESCARGAS (RELEASES)**](https://github.com/NavoneJuan/NavoneJuanApps/releases)
 
 ---
 
