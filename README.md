@@ -31,7 +31,7 @@ Puedes descargar la última versión **v1.0** para tu plataforma preferida desde
 
 | Android | Windows |
 | :---: | :---: |
-| ![Captura Android](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Android.jpg?text=App+Android) | ![Captura Windows](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Win.jpg?text=App+Windows) |
+| ![Captura Android](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Android.jpg) | ![Captura Windows](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Win.jpg) |
 *(Imágenes referenciales de la versión 1.0)*
 
 ---
