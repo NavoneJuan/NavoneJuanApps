@@ -18,6 +18,19 @@ Puedes descargar la última versión **v1.0** para tu plataforma preferida desde
 
 ---
 
+## 🛡️ Verificación de Seguridad (VirusTotal)
+
+La transparencia es fundamental. Hemos sometido nuestros instaladores a análisis de seguridad públicos:
+
+| Plataforma | Estado | Reporte de VirusTotal |
+| :--- | :--- | :--- |
+| **Android** | ✅ **100% Limpio** | [Ver Análisis (0/66)](https://www.virustotal.com/gui/file/5c48a1906d31a805a89672c66811c22fcec56c04f618f4aa04a0f8fa44254fcf/detection) |
+| **Windows** | ✅ **Seguro** | [Ver Análisis (1/72)*](https://www.virustotal.com/gui/file/6d5b3fee6cbf930b59741f6653fceabc99a9a465fc6d220c9477c9772cc76587/detection) |
+
+> *\*Nota sobre Windows: Es posible que algún motor antivirus menor genere un "Falso Positivo" debido a que el instalador no posee firma digital corporativa. Los motores principales (Microsoft, Google, Kaspersky) confirman que el archivo es seguro.*
+
+---
+
 ## 📱 Características
 
 * **Acceso Directo:** Entra a `navonejuan.com.ar` sin necesidad de abrir el navegador y teclear la dirección.
@@ -31,7 +44,7 @@ Puedes descargar la última versión **v1.0** para tu plataforma preferida desde
 
 | Android | Windows |
 | :---: | :---: |
-| ![Captura Android](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Android.jpg) | ![Captura Windows](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Win.jpg) |
+| ![Captura Android](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Android.jpg?text=App+Android) | ![Captura Windows](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Win.jpg?text=App+Windows) |
 *(Imágenes referenciales de la versión 1.0)*
 
 ---
@@ -64,7 +77,7 @@ Como estas aplicaciones son exclusivas y aún no están listadas en las tiendas 
 Desarrollado y mantenido por **Navone Juan**.
 
 * 🌐 **Web Oficial:** [https://navonejuan.com.ar](https://navonejuan.com.ar)
-* 📧 **Soporte:** (jinesf@gmail.com)
+* 📧 **Soporte:** jinesf@gmail.com
 
 ---
 © 2025 Navone Juan Soluciones Informáticas. Todos los derechos reservados.
