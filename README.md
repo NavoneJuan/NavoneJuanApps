@@ -1,5 +1,7 @@
 # Navone Juan APP (NJSI)
-
+<div align="center">
+  <img src="https://navonejuan.com.ar/wp-content/uploads/2025/09/NJ_Tech_Redondo512.png" width="150" alt="Logo NJSI">
+</div>
 ![Version](https://img.shields.io/badge/Versi%C3%B3n-1.0-blue?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -48,7 +50,7 @@ Como estas aplicaciones son exclusivas y aún no están listadas en las tiendas 
 3.  ¡Listo! Ya tienes la app en tu menú.
 
 ### 💻 Windows (.exe)
-1.  Descarga el archivo `Instalador_NJSI.exe` (o `.zip`).
+1.  Descarga el archivo `Instalador_NJSI.exe`.
 2.  Al ejecutarlo, es posible que veas una pantalla azul de **SmartScreen**:
     * Haz clic en **"Más información"** (texto subrayado).
     * Presiona el botón **"Ejecutar de todas formas"**.
@@ -63,7 +65,7 @@ Como estas aplicaciones son exclusivas y aún no están listadas en las tiendas 
 Desarrollado y mantenido por **Navone Juan**.
 
 * 🌐 **Web Oficial:** [https://navonejuan.com.ar](https://navonejuan.com.ar)
-* 📧 **Soporte:** (Aquí puedes poner tu email si quieres)
+* 📧 **Soporte:** (jinesf@gmail.com)
 
 ---
 © 2025 Navone Juan Soluciones Informáticas. Todos los derechos reservados.
