@@ -54,7 +54,7 @@ La transparencia es fundamental. Hemos sometido nuestros instaladores a análisi
 Como estas aplicaciones son exclusivas y aún no están listadas en las tiendas globales, tu dispositivo podría pedirte confirmación para instalarlas. Aquí te explicamos cómo hacerlo de forma segura:
 
 ### 🤖 Android (.apk)
-1.  Descarga el archivo `NavoneJuanAPP.apk`.
+1.  Descarga el archivo `NavoneJuan_1.0.apk`.
 2.  Al abrirlo, si aparece el aviso "Instalación bloqueada por orígenes desconocidos":
     * Ve a **Configuración**.
     * Activa la opción **"Permitir desde esta fuente"**.
@@ -62,7 +62,7 @@ Como estas aplicaciones son exclusivas y aún no están listadas en las tiendas 
 3.  ¡Listo! Ya tienes la app en tu menú.
 
 ### 💻 Windows (.exe)
-1.  Descarga el archivo `Instalador_NJSI.exe`.
+1.  Descarga el archivo `NavoneJuanAPP-1.0.exe`.
 2.  Al ejecutarlo, es posible que veas una pantalla azul de **SmartScreen**:
     * Haz clic en **"Más información"** (texto subrayado).
     * Presiona el botón **"Ejecutar de todas formas"**.
