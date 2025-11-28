@@ -24,8 +24,8 @@ La transparencia es fundamental. Hemos sometido nuestros instaladores a análisi
 
 | Plataforma | Estado | Reporte de VirusTotal |
 | :--- | :--- | :--- |
-| **Android** | ✅ **100% Limpio** | [Ver Análisis (0/66)](https://www.virustotal.com/gui/file/5c48a1906d31a805a89672c66811c22fcec56c04f618f4aa04a0f8fa44254fcf/detection) |
-| **Windows** | ✅ **Seguro** | [Ver Análisis (1/72)*](https://www.virustotal.com/gui/file/6d5b3fee6cbf930b59741f6653fceabc99a9a465fc6d220c9477c9772cc76587/detection) |
+| **Android** | ✅ **100% Limpio** | [Ver Análisis (0/66)](https://www.virustotal.com/gui/file/5c48a1906d31a805a89672c66811c22fcec56c04f618f4aa04a0f8fa44254fcf) |
+| **Windows** | ✅ **100% Limpio** | [Ver Análisis (0/72)*](https://www.virustotal.com/gui/file/4cb0daf6d7d83519c4309612c43afc0e632cf2ac4919307d29873d736bca3864) |
 
 > *\*Nota sobre Windows: Es posible que algún motor antivirus menor genere un "Falso Positivo" debido a que el instalador no posee firma digital corporativa. Los motores principales (Microsoft, Google, Kaspersky) confirman que el archivo es seguro.*
 
